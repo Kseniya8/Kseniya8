@@ -2,7 +2,7 @@
 
 ## Skills
 ![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css)
+![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![Vue](https://img.shields.io/badge/vue-090909?style=for-the-badge&logo=Vue.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=MongoDB)

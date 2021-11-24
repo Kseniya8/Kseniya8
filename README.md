@@ -1,14 +1,15 @@
-Header
-Frontend developer
+## Frontend developer
 
-About me
+## Skills
+![HTML5](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css)
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Vue](https://img.shields.io/badge/vue-090909?style=for-the-badge&logo=Vue.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=MongoDB)
 
-Skills
-- HTML5/CSS
-- 👨‍💻 JavaScript
-- ⚙️ Vue.js
-- 💽 SQL, MongoDB
-
+## Contacts
+[![Telegram](https://img.shields.io/badge/telegram-badsenya-6A5ACD?style=for-the-badge&logo=telegram)](https://t.me/badsenya)
+[![Email](https://img.shields.io/badge/📧email-badretdinova.xenia@yandex.ru-6A5ACD?style=for-the-badge&logo=Email)](mailto:badretdinova.xenia@yandex.ru)
 <!--
 **Kseniya8/Kseniya8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

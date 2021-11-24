@@ -1,4 +1,13 @@
-### Hi there 👋
+Header
+Frontend developer
+
+About me
+
+Skills
+- HTML5/CSS
+- 👨‍💻 JavaScript
+- ⚙️ Vue.js
+- 💽 SQL, MongoDB
 
 <!--
 **Kseniya8/Kseniya8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

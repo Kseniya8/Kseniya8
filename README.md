@@ -9,7 +9,6 @@
 
 ## Contacts
 [![Telegram](https://img.shields.io/badge/telegram-badsenya-6A5ACD?style=for-the-badge&logo=telegram)](https://t.me/badsenya)
-[![Email](https://img.shields.io/badge/📧email-badretdinova.xenia@yandex.ru-6A5ACD?style=for-the-badge&logo=Email)](mailto:badretdinova.xenia@yandex.ru)
 <!--
 **Kseniya8/Kseniya8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
